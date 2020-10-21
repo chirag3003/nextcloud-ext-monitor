@@ -1,7 +1,7 @@
 {
-  "name": "nextcloud-ext-monitor",
+  "name": "code",
   "version": "0.1.0",
-  "description": "nextcloud-ext-monitor application, built with React.",
+  "description": "code application, built with React.",
   "main": "index.js",
   "scripts": {
     "build": "cross-env NODE_ENV=production node scripts/build",
